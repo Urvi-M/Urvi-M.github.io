@@ -1,9 +1,8 @@
-## Welcome to GitHub Pages
+## Hi! I'm Urvi
 
-You can use the [editor on GitHub](https://github.com/Urvi-M/Urvi-M.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+I'm a neuroscience enthusiast based in Mumbai, India. I am currently pursuing my Master's at Tata Institute of Fundamental Research studying cell-fate specification in early neurodevelopment. I've also developed a healthy interest in learning techniques of analysis employed in computational neruoscience. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+I like to read, write, game and occassionaly tell tales of adventures of my cat. 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
