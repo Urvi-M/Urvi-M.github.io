@@ -1,6 +1,6 @@
 layout: page
 title: "project"
-permalink:https://Urvi-M.github.io/project
+permalink:https://urvi-m.github.io/project
 
 <!DOCTYPE html>
 <html>
