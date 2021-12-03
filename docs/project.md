@@ -5,7 +5,7 @@ permalink:https://urvi-m.github.io/project
 <!DOCTYPE html>
 <html>
 <body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+<h1>TProjects</h1>
+<p>This page is under construction.</p>
 </body>
 </html>
